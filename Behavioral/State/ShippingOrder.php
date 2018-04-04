@@ -14,3 +14,4 @@ class ShippingOrder extends StateOrder
         $this->setStatus('completed');
     }
 }
+
